@@ -16,7 +16,7 @@ Both documents are included in this repository.
 
 Reflection
 
-So, the DriverPass project was about building a system where students could schedule their driving tests and instructors could manage everything easily. The idea was to make the whole thing simple and smooth for both sides.
+The DriverPass project was about building a system where students could schedule their driving tests and instructors could manage everything easily. The idea was to make the whole thing simple and smooth for both sides.
 
 I think I did a pretty good job turning what the client wanted into a design that makes sense. Everything important was covered, and the diagrams help show how it would all work.
 
