@@ -1,6 +1,8 @@
 # CS-255
 DriverPass System Design Project
+
 Project Overview
+
 This project was part of the CS-255 System Analysis and Design course. The goal was to design a system for DriverPass, a company that needed an easy and efficient way for students to schedule driving tests and for instructors and admins to manage those appointments.
 
 I created two main documents for this project:
@@ -13,6 +15,7 @@ Both documents are included in this repository.
 
 
 Reflection
+
 So, the DriverPass project was about building a system where students could schedule their driving tests and instructors could manage everything easily. The idea was to make the whole thing simple and smooth for both sides.
 
 I think I did a pretty good job turning what the client wanted into a design that makes sense. Everything important was covered, and the diagrams help show how it would all work.
